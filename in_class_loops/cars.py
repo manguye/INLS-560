@@ -1,7 +1,7 @@
-cars = ['audi', 'bmw', 'subaru', 'toyota']
+inner_sphere = ['kurita', 'davion', 'comstar', 'steiner', 'liao', 'marik']
 
-for car in cars:
-    if car == 'bmw':
-        print(car.upper())
+for faction in inner_sphere:
+    if faction == 'comstar':
+        print(faction.upper())
     else:
-        print(car.capitalize())
+        print(faction.capitalize())
