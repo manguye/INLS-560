@@ -1,4 +1,5 @@
-
+# https://goheels.com/sports/mens-basketball/roster
 
 roster = ['Claude', 'Cadeau', 'Tyson', 'Trimble', 'Jackson', 'Hawkins', 'Lubin', 'Mayo Jr.', 'Brown', 'Davis']
-print(roster)
+for player in roster:
+    print(player)
